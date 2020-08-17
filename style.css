@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+#particles-js{
+    background-image: url('https://img.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?size=626&ext=jpg');
+    background-size: cover;
+    height:680px;
+}
